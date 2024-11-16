@@ -22,6 +22,26 @@ Utilizing theoretical modeling templates involves applying these frameworks to s
 [ChatGPT](https://github.com/sourceduty/ChatGPT)
 <br>
 [Theoretical Modelling](https://github.com/sourceduty/theoretical_modelling)
+<br>
+[Theorem Proof](https://github.com/sourceduty/Theorem_Proof)
+<br>
+[Computational Theory](https://github.com/sourceduty/Computational_Theory)
+<br>
+[Theory Proof](https://github.com/sourceduty/Theory_Proof)
+<br>
+[Evolution](https://github.com/sourceduty/Evolution)
+<br>
+[Theory of Norms](https://github.com/sourceduty/Theory_of_Norms)
+<br>
+[Polar Duality Theory](https://github.com/sourceduty/Polar_Duality_Theory)
+<br>
+[Theoretical Experiment](https://github.com/sourceduty/Theoretical_Experiment)
+<br>
+[ANTI-](https://github.com/sourceduty/ANTI-)
+<br>
+[Logic Guage](https://github.com/sourceduty/Logic_Gauge)
+<br>
+[Theory](https://github.com/sourceduty/Theory)
 
 ***
 Copyright (C) 2024, Sourceduty - All Rights Reserved.
